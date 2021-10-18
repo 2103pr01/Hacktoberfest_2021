@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+   printf("tg9ubgtrs");
+   return 0;
+ }
